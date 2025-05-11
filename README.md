@@ -35,9 +35,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+## a landing page project using Next.js and reactbits
 this is the preview of the landing page:
 
 ![Screen Shot 2025-05-11 at 18 56 38](https://github.com/user-attachments/assets/fba1180e-5598-4857-b945-006f0409df1e)
 
 (to edit: go to page.tsx)
+
+1. I'm using TypeScript + Tailwind for the animation
+2. go to [reactbits.dev](https://www.reactbits.dev) to import some animation for your website/app
+3. for the lanyard don't forget to edit first as the manual says in reactbits
+4. use ratio 1:1 for edit the lanyard card display
+5. don't forget to add 'use client'; in every components's code
 
