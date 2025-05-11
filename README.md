@@ -39,3 +39,5 @@ this is the preview of the landing page:
 
 ![Screen Shot 2025-05-11 at 18 56 38](https://github.com/user-attachments/assets/fba1180e-5598-4857-b945-006f0409df1e)
 
+(to edit: go to page.tsx)
+
