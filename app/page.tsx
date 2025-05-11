@@ -61,7 +61,7 @@ export default function Home() {
                         direction="top"
                         className="text-xl mb-8" />
                         <div className="flex items-center gap-4">
-                        <a href ="mailto:zahradavinab@gmail.com"><ShinyText text="Contact Me!" disabled={false} speed={5} className='custom-class border-2 px-4 py-2 rounded-3xl' /></a>
+                        <a href ="mailto:davin@example.com"><ShinyText text="Contact Me!" disabled={false} speed={5} className='custom-class border-2 px-4 py-2 rounded-3xl' /></a>
                         </div>
                 </AnimatedContent>
               </div>
